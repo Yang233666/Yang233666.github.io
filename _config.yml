@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "HomePage - Yang Yang"
 title_separator          : "-"
 name                     : &name "Yang Yang"
-description              : &description "First-year PhD student at the Insight SFI Research Centre for Data Analytics at the University of Galway"
+description              : &description "PhD student at the Insight SFI Research Centre for Data Analytics at the University of Galway"
 url                      : https://yang233666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yang-yang-144192190/"
+  linkedin         : #"https://www.linkedin.com/in/yang-yang-144192190/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8190-8683"
   pinterest        :
   soundcloud       :
