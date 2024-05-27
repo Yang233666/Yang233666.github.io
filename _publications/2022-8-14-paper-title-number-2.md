@@ -6,5 +6,3 @@ date: 2022-8-14
 venue: ''Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3534678.3539449'
 ---
-
-[Download paper here](https://arxiv.org/pdf/2206.11130)
