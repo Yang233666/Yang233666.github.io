@@ -28,7 +28,8 @@ My research interests lie in Open Knowledge Base and Neuro-Symbolic AI. You can 
 - *2022.08*: 🎉 One paper is accepted by ACM SIGKDD
 - *2021.03*: 🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering
 
-# 📝 Publications (∗ corresponding author)
+# 📝 Publications
+(∗ corresponding author)
 ## Open Knowledge Base
 - ``ACM-SIGKDD 2022`` [Multi-View Clustering for Open Knowledge Base Canonicalization](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449), Wei Shen, **Yang Yang***, Yinan Liu
 
