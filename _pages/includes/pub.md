@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Publications (∗Corresponding author)
 
 ## Open Knowledge Base
 - ``ACM-SIGKDD 2022`` [Multi-View Clustering for Open Knowledge Base Canonicalization](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449), Wei Shen, **Yang Yang***, Yinan Liu
