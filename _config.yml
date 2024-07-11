@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Yang (杨阳)"
+  name             : "Yang Yang\n\ (杨阳)"
   avatar           : "images/profile.jpg"
   bio              : "Insight SFI Research Centre for Data Analytics, University of Galway"
   location         : "Galway, Ireland"
