@@ -28,9 +28,7 @@ My research interests lie in Open Knowledge Base and Neuro-Symbolic AI. You can 
 - *2022.08*: 🎉 One paper is accepted by ACM SIGKDD
 - *2021.03*: 🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering
 
-
 # 📝 Publications (∗ corresponding author)
-
 ## Open Knowledge Base
 - ``ACM-SIGKDD 2022`` [Multi-View Clustering for Open Knowledge Base Canonicalization](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449), Wei Shen, **Yang Yang***, Yinan Liu
 
@@ -38,19 +36,25 @@ My research interests lie in Open Knowledge Base and Neuro-Symbolic AI. You can 
 - `IEEE-BigData 2023` [Enabling Dataspaces Using Foundation Models: Technical, Legal and Ethical Considerations and Future Trends](https://drive.google.com/file/d/1pHXlfak9GEc0Z5LBGY3x7HvKhlbvSFla/view), Mohan Timilsina, Samuele Buosi, Ping Song, **Yang Yang**, Rafiqul Haque, Edward Curry
 - ``IEEE-BigData 2023`` [Foundation Data Space Models: Bridging the Artificial Intelligence and Data Ecosystems (Vision Paper)](https://drive.google.com/file/d/1tg188Hmcf2UZfPNU85NgRhaFfhiK_vg5/view), Edward Curry, Tarek Zaarour, **Yang Yang**, Mohan Timilsina, Majjed Al-Qatf, Rafiqul Haque
 
-## Others
+## Entity Linking
 - ``IEEE-TKDE 2021`` [Toward Tweet Entity Linking with Heterogeneous Information Networks](https://drive.google.com/file/d/1OXgXAR6FQsnNHFkYkdKYR9XvXrhDcDja/view), Wei Shen, Yuwei Yin, **Yang Yang**, Jiawei Han, Jianyong Wang, Xiaojie Yuan
 
+
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2023.09 - Now*, PhD student, [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org) at University of Galway, with supervisor: [Prof. Edward Curry](https://edwardcurry.org).
 - *2019.09 - 2022.06*, Master, Nankai University, with supervisor: [Prof. Wei Shen](https://scholar.google.com/citations?user=Q_U6r_YAAAAJ&hl=en&authuser=1).
 - *2015.09 - 2019.06*, Undergraduate, Dalian University of Technology.
 
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
 - *2024.06*, [International Semantic Web Research Summer School (ISWS)](https://2024.semanticwebschool.org), Bertinoro, Italy.
-
 
 # 📞 Contact
 - Email: yang.yang@insight-centre.org
