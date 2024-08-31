@@ -2,6 +2,7 @@
 # 📝 Publications
 (∗ corresponding author)
 ## Open Knowledge Base
+- ``TEXT2KG 2024`` [Open Knowledge Base Canonicalization: Techniques and Challenges](https://ceur-ws.org/Vol-3747/text2kg_paper5.pdf), Yang Yang, Edward Curry
 - ``ACM-SIGKDD 2022`` [Multi-View Clustering for Open Knowledge Base Canonicalization](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449), Wei Shen, **Yang Yang***, Yinan Liu
 
 ## Data Space
