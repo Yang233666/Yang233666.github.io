@@ -1,3 +1,3 @@
 My name is Yang Yang. I am currently a second year PhD student at the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org) at the University of Galway, supervised by [Prof. Edward Curry](https://edwardcurry.org). Previously, I received my Master's degree from the Computer Science department at Nankai University, supervised by [Prof. Wei Shen](https://scholar.google.com/citations?user=Q_U6r_YAAAAJ&hl=en&authuser=1). 
 
-My research interests lie in the Open Knowledge Base. You can find my CV here: [Yang Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yang.yang@insight-centre.org). 
+My research interests lie in Open Knowledge Base. You can find my CV here: [Yang Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:yang.yang@insight-centre.org). 
