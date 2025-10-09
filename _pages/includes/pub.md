@@ -5,7 +5,7 @@
 ## Trustworthy AI
 - ``EMNLP 2025.`` KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction, **Yang Yang***, Mohan Timilsina, Edward Curry. [Code](https://github.com/Yang233666/KGE-Calibrator)
 
-## Open Knowledge Base
+## Knowledge Graph
 - ``Chapter in Handbook on Neurosymbolic AI and Knowledge Graphs, 2025.`` Neuro-Symbolic Techniques in Open Knowledge Graph Canonicalization, **Yang Yang***, Edward Curry. [Paper](https://ebooks.iospress.nl/volumearticle/72299)
 - ``IEEE-TKDE 2025`` CMVC+: a Multi-View Clustering Framework for Open Knowledge Base Canonicalization via Contrastive Learning, **Yang Yang**, Wei Shen*, Junfeng Shu, Yinan Liu, Edward Curry, Guoliang Li. [Paper](https://drive.google.com/file/d/19y55BQx21IJrOf-jqywshk4yBrQE0ANr/view), [Code](https://github.com/Yang233666/CMVC-plus)
 - ``TEXT2KG 2024`` Open Knowledge Base Canonicalization: Techniques and Challenges, **Yang Yang***, Edward Curry. [Paper](https://ceur-ws.org/Vol-3747/text2kg_paper5.pdf)
