@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Yang (杨阳)"
-description              : "PhD student at Insight SFI Research Centre for Data Analytics, University of Galway"
+description              : "PhD student at Insight Research Ireland Centre for Data Analytics, Data Science Institute, University of Galway"
 repository               : "Yang233666/Yang233666.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang Yang\n\ (杨阳)"
   avatar           : "images/profile.jpg"
-  bio              : "Insight SFI Research Centre for Data Analytics, University of Galway"
+  bio              : 
   location         : "Galway, Ireland"
   employer         :
   pubmed           : 
