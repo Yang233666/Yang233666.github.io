@@ -1,0 +1,168 @@
+%------------------------
+% Resume Template - Corrected for TeXShop
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,12pt]{article} % Corrected: 20pt is not a standard article font size. Changed to 12pt.
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{xcolor} % Use xcolor for more flexibility
+\usepackage{verbatim}
+\usepackage{enumitem} 
+\usepackage{fancyhdr}
+\usepackage[colorlinks,urlcolor=blue]{hyperref} % Corrected: Single, clean hyperref call.
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\LARGE Yang Yang}\\
+  Email: \href{mailto:yang.yang@insight-centre.org}{yang.yang@insight-centre.org}\\
+  Website: \href{https://yang233666.github.io/}{https://yang233666.github.io/}\\
+  Location: Lower Dangan, Galway, H91 AEX4, Ireland.\\
+\end{tabular*}
+
+%-----------Research Interests-----------------
+\section{Research Interests}
+\begin{itemize}
+\item {Knowledge Graphs, Trustworthy AI, Large Language Models, Agents.}
+\end{itemize}
+
+%-----------EDUCATION-----------------
+\section{Education}
+\begin{itemize}
+\item {September 2023 - Now: PhD student in Insight Research Ireland Centre for Data Analytics, Data Science Institute, University of Galway (Advisor: \href{https://edwardcurry.org}{Edward Curry}).}
+\item {June 2024: International Semantic Web Research Summer School (ISWS), Bertinoro, Italy.}
+\item {September 2019 - June 2022: M.E. in Nankai University (Advisor: \href{https://scholar.google.com/citations?user=Q_U6r_YAAAAJ&hl=en}{Wei Shen}).}
+\item {September 2015 - June 2019: B.E. in Dalian University of Technology. }
+\end{itemize}
+
+\section{Publications}
+\begin{itemize}
+\item {\textbf{Yang Yang}, Mohan Timilsina, Edward Curry. “\href{}{KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction}” In EMNLP 2025. }
+
+\item {\textbf{Yang Yang}, Edward Curry. “\href{https://ebooks.iospress.nl/volumearticle/72299}{Neuro-Symbolic Techniques in Open Knowledge Graph Canonicalization}” In Handbook on Neurosymbolic AI and Knowledge Graphs 2025. }
+
+\item {\textbf{Yang Yang}, Wei Shen, Junfeng Shu, Yinan Liu, Edward Curry, Guoliang Li. “\href{https://drive.google.com/file/d/19y55BQx21IJrOf-jqywshk4yBrQE0ANr/view}{CMVC+: a Multi-View Clustering Framework for Open Knowledge Base Canonicalization via Contrastive Learning}” In IEEE TKDE 2025. }
+
+\item {\textbf{Yang Yang}, Edward Curry. “\href{https://ceur-ws.org/Vol-3747/text2kg_paper5.pdf}{Open Knowledge Base Canonicalization: Techniques and Challenges}” In TEXT2KG Workshop at ESWC 2024. }
+
+\item {Wei Shen, \textbf{Yang Yang}$^{*}$, Yinan Liu. “\href{https://dl.acm.org/doi/abs/10.1145/3534678.3539449}{Multi-View Clustering for Open Knowledge Base Canonicalization}” In KDD 2022 ($^{*}$Corresponding author). }
+
+\item {Wei Shen, Yuwei Yin, \textbf{Yang Yang}, Jiawei Han, Jianyong Wang, Xiaojie Yuan. “\href{https://drive.google.com/file/d/1OXgXAR6FQsnNHFkYkdKYR9XvXrhDcDja/view}{Toward Tweet Entity Linking with Heterogeneous Information Networks}.” In IEEE TKDE 2021. }
+
+\item {Edward Curry, Tarek Zaarour, \textbf{Yang Yang}, Mohan Timilsina, Majjed Al-Qatf, Rafiqul Haque. “\href{https://drive.google.com/file/d/1tg188Hmcf2UZfPNU85NgRhaFfhiK_vg5/view}{Foundation Data Space Models: Bridging the Artificial Intelligence and Data Ecosystems (Vision Paper).}” In IEEE BigData 2023. }
+
+\item {Mohan Timilsina, Samuele Buosi, Ping Song, \textbf{Yang Yang}, Rafiqul Haque, Edward Curry. “\href{https://drive.google.com/file/d/1pHXlfak9GEc0Z5LBGY3x7HvKhlbvSFla/view}{Enabling Dataspaces Using Foundation Models: Technical, Legal and Ethical Considerations and Future Trends.}” In IEEE BigData 2023. }
+\end{itemize}
+
+%-----------Awards-----------------
+%\section{Honors and Awards}
+%\begin{itemize}
+%\item {Outstanding Graduates Award, Dalian University of Technology - June, 2019}
+%\vspace{-5pt}
+%\item {Merit Student Award, Dalian University of Technology - December, 2017}
+%\vspace{-5pt}
+%\item {Learning Excellence Award, Dalian University of Technology - October, 2017}
+%\vspace{-5pt}
+%\item {Merit Student Award, Dalian University of Technology - December, 2016}
+%\vspace{-5pt}
+%\item {Learning Excellence Award, Dalian University of Technology - October, 2016}
+%\vspace{-5pt}
+%\end{itemize}
+
+\vspace{-5pt}
+\section{Teaching Experience}
+I work as a teaching assistant mainly servicing for the following courses:
+\vspace{-5pt}
+\begin{itemize}
+\item {C++ Programming (2-2), March 2021 - July 2021, Nankai University}
+\vspace{-5pt}
+\item {C++ Programming (2-1), October 2020 - January 2021, Nankai University}
+\end{itemize}
+
+
+\vspace{-5pt}
+\section{Language}
+\begin{itemize}
+\item {Chinese Mandarin (Native)}
+\vspace{-5pt}
+\item {English (Fluent)}
+\end{itemize}
+
+\vspace{-5pt}
+\section{Skills}
+\begin{itemize}
+\item {Programming: Python, C++, Java, Git}
+\vspace{-5pt}
+\item {Frameworks: Pytorch, Tensorflow, Keras.}
+\vspace{-5pt}
+\item {Others: Microsoft Office, Latex}
+\end{itemize}
+
+\end{document}
