@@ -5,6 +5,11 @@
 ## Calibration
 - ``EMNLP 2025.`` KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction, [code](https://github.com/Yang233666/KGE-Calibrator), **Yang Yang***, Mohan Timilsina, Edward Curry
 
+"KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction"
+By: **Yang Yang***, Mohan Timilsina, Edward Curry.
+EMNLP 2025: Conference on Empirical Methods in Natural Language Processing. 
+[Paper](#) | [Code](https://github.com/Yang233666/KGE-Calibrator)
+
 ## Open Knowledge Base
 - ``Chapter in Handbook on Neurosymbolic AI and Knowledge Graphs, 2025.`` [Neuro-Symbolic Techniques in Open Knowledge Graph Canonicalization](https://ebooks.iospress.nl/volumearticle/72299), **Yang Yang***, Edward Curry
 - ``IEEE-TKDE 2025`` [CMVC+: a Multi-View Clustering Framework for Open Knowledge Base Canonicalization via Contrastive Learning](https://drive.google.com/file/d/19y55BQx21IJrOf-jqywshk4yBrQE0ANr/view), [code](https://github.com/Yang233666/CMVC-plus), **Yang Yang**, Wei Shen*, Junfeng Shu, Yinan Liu, Edward Curry, Guoliang Li
