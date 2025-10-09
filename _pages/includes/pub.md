@@ -2,7 +2,7 @@
 # 📝 Publications
 (∗ corresponding author)
 
-## Calibration
+## Trustworthy AI
 - ``EMNLP 2025.`` KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction, **Yang Yang***, Mohan Timilsina, Edward Curry. [Code](https://github.com/Yang233666/KGE-Calibrator)
 
 ## Open Knowledge Base
