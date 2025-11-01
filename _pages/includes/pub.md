@@ -3,7 +3,7 @@
 (∗ corresponding author)
 
 ## Trustworthy AI
-- ``EMNLP 2025.`` KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction, **Yang Yang**, Mohan Timilsina, Edward Curry. [Code](https://github.com/Yang233666/KGE-Calibrator)
+- ``EMNLP 2025.`` KGE Calibrator: An Efficient Probability Calibration Method of Knowledge Graph Embedding Models for Trustworthy Link Prediction, **Yang Yang**, Mohan Timilsina, Edward Curry. [Paper](https://aclanthology.org/2025.emnlp-main.1522.pdf), [Code](https://github.com/Yang233666/KGE-Calibrator)
 
 ## Knowledge Graph
 - ``Chapter in Handbook on Neurosymbolic AI and Knowledge Graphs, 2025.`` Neuro-Symbolic Techniques in Open Knowledge Graph Canonicalization, **Yang Yang**, Edward Curry. [Paper](https://ebooks.iospress.nl/volumearticle/72299)
